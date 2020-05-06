@@ -1,0 +1,51 @@
+body {
+	font-family: Raleway;
+	}
+.heroarea {
+	background: url(main4.jpg) bottom center/cover no-repeat;
+	min-height: 750px;
+}
+.navbar-brand {
+	font-weight: 100;
+	font-size: 1.8rem;
+}
+.pr-text {
+	color: #36b3a8!important;
+}
+.footer-links {
+	color: #c2c2c2!important;
+	font-weight: 300;
+}
+#mynav {
+	background-color: rgba(0,0,0,0)!important;
+	position: absolute;
+	width: 100%;
+}
+.navbar-nav {
+	font-size: 1.4rem;
+}
+.navbar-nav .nav-item {
+	color: rgba(255,255,255,0.5);
+	font-weight: 100;
+}
+#book {
+	font-size: 1.5rem;
+	border-radius: 2rem;
+}
+.explore-button {
+	border: 1px solid #36b3a8;
+}
+.explore-button:hover {
+	border: 1px solid #36b3a8;
+	background-color: #36b3a8;
+	color: #fff!important;
+}
+.img {
+	width: 100%;
+}
+.quote-symbol {
+	color: rgba(54, 179, 168, 0.3)!important;
+}
+.newsletter-btn {
+	background-color: #36b3a8;
+}
